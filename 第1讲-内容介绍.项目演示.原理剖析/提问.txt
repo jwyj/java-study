@@ -1,20 +1,20 @@
-1. javaÓïÑÔÖ®¸¸ÊÇË­£¬ÄÇ¸ö¹«Ë¾
+1. javaè¯­è¨€ä¹‹çˆ¶æ˜¯è°ï¼Œé‚£ä¸ªå…¬å¸
 
-2. ÁÐ¾ÙÒ»ÏÂ³£¼ûµÄjava¿ª·¢¹¤¾ß
+2. åˆ—ä¸¾ä¸€ä¸‹å¸¸è§çš„javaå¼€å‘å·¥å…·
 
-3. javaµÄÌØµã£¬ÖÁÉÙËµ³öÁ½µã
+3. javaçš„ç‰¹ç‚¹ï¼Œè‡³å°‘è¯´å‡ºä¸¤ç‚¹
 
-4. jdkÊÇÊ²Ã´£¬Ëü¶ÔÓÚjavaµÄ×÷ÓÃÊÇÊ²Ã´
+4. jdkæ˜¯ä»€ä¹ˆï¼Œå®ƒå¯¹äºŽjavaçš„ä½œç”¨æ˜¯ä»€ä¹ˆ
 
-5. jdkµÄ°²×°ÅäÖÃ²½Öè
+5. jdkçš„å®‰è£…é…ç½®æ­¥éª¤
 
-6. »·¾³±äÁ¿ÊÇÊ²Ã´
-	6.1 PATH±äÁ¿µÄ×÷ÓÃ
+6. çŽ¯å¢ƒå˜é‡æ˜¯ä»€ä¹ˆ
+	6.1 PATHå˜é‡çš„ä½œç”¨
 
-7. javaÔ´ÎÄ¼þºÍ.classÎÄ¼þµÄ¹ØÏµ£¬¼òÊöÄã¶ÔjavaÔËÐÐ¹ØÏµÍ¼µÄÀí½â
+7. javaæºæ–‡ä»¶å’Œ.classæ–‡ä»¶çš„å…³ç³»ï¼Œç®€è¿°ä½ å¯¹javaè¿è¡Œå…³ç³»å›¾çš„ç†è§£
 
-8. javaÐéÄâ»úÊÇÊ²Ã´
+8. javaè™šæ‹Ÿæœºæ˜¯ä»€ä¹ˆ
 
-9. ÔÚ´úÂëÄ¿Â¼ÖÐµÄhello.javaÎÄ¼þÖÐ£¬±àÐ´¿ÉÒÔÊä³ö"hello world"µ½¿ØÖÆÌ¨µÄ´úÂë
+9. åœ¨ä»£ç ç›®å½•ä¸­çš„hello.javaæ–‡ä»¶ä¸­ï¼Œç¼–å†™å¯ä»¥è¾“å‡º"hello world"åˆ°æŽ§åˆ¶å°çš„ä»£ç 
 
-10. ¼òÊöÔËÐÐ9ÖÐ´úÂëµÄ²½Öè
+10. ç®€è¿°è¿è¡Œ9ä¸­ä»£ç çš„æ­¥éª¤

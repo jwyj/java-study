@@ -1,16 +1,16 @@
 1. 
-	»¥ÁªÍø·½Ïò 
-	¿Í»§¶Ë¿ª·¢
-	AndroidÒÆ¶¯¶Ë¿ª·¢
+	äº’è”ç½‘æ–¹å‘ 
+	å®¢æˆ·ç«¯å¼€å‘
+	Androidç§»åŠ¨ç«¯å¼€å‘
 2. 
 	2.1 
-		Æ½Ì¨¾ÍÊÇ²Ù×÷ÏµÍ³
+		å¹³å°å°±æ˜¯æ“ä½œç³»ç»Ÿ
 	2.2
-		Windows(´ó¶àÊýµçÄÔ)
-		Android(´ó¶àÊýÊÖ»ú)
-		Linux(´©Ô½»ðÏß£¬Ó¢ÐÛÁªÃË£¬ÌÔ±¦·þÎñÆ÷)
+		Windows(å¤§å¤šæ•°ç”µè„‘)
+		Android(å¤§å¤šæ•°æ‰‹æœº)
+		Linux(ç©¿è¶Šç«çº¿ï¼Œè‹±é›„è”ç›Ÿï¼Œæ·˜å®æœåŠ¡å™¨)
 		IOS(iphone)
-		MAC(Æ»¹ûµçÄÔ)
+		MAC(è‹¹æžœç”µè„‘)
 	2.3
-		Æ½Ì¨ÊÇÓÃÀ´ÔËÐÐjava´úÂëµÄ
-	¾ÍÊÇjava´úÂë±»±àÒëºóµÃµ½µÄ¶«Î÷£¬¿ÉÒÔÔÚ²»Í¬µÄ²Ù×÷ÏµÍ³ÉÏÔËÐÐ
+		å¹³å°æ˜¯ç”¨æ¥è¿è¡Œjavaä»£ç çš„
+	å°±æ˜¯javaä»£ç è¢«ç¼–è¯‘åŽå¾—åˆ°çš„ä¸œè¥¿ï¼Œå¯ä»¥åœ¨ä¸åŒçš„æ“ä½œç³»ç»Ÿä¸Šè¿è¡Œ
